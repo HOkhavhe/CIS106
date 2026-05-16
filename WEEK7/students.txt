@@ -1,0 +1,15 @@
+Jones
+I
+12
+Adams
+I
+10
+Baker
+O
+12
+Smith
+O
+16
+Davis
+I
+8
