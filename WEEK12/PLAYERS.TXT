@@ -1,0 +1,10 @@
+Alvarez,0.267
+Bregman,0.300
+Tucker,0.284
+Altuve,0.295
+Pena,0.253
+McCormick,0.273
+Diaz,0.282
+Dubon,0.278
+Meyers,0.227
+Abreu,0.235
